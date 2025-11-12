@@ -1,0 +1,16 @@
+{
+  "version": "4",
+  "specifiers": {
+    "npm:@type-challenges/utils@~0.1.1": "0.1.1"
+  },
+  "npm": {
+    "@type-challenges/utils@0.1.1": {
+      "integrity": "sha512-A7ljYfBM+FLw+NDyuYvGBJiCEV9c0lPWEAdzfOAkb3JFqfLl0Iv/WhWMMARHiRKlmmiD1g8gz/507yVvHdQUYA=="
+    }
+  },
+  "workspace": {
+    "dependencies": [
+      "npm:@type-challenges/utils@~0.1.1"
+    ]
+  }
+}
